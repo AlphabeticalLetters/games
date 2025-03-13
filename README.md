@@ -21,4 +21,4 @@
 
 ## Demo
 
-You can try the game by opening the [live demo](#) (replace with your demo URL if available) or by running the code locally.
+You can try the game by opening the [[live demo]](https://alphabeticalletters.com/)(#) (replace with your demo URL if available) or by running the code locally.
