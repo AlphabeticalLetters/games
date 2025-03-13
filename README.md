@@ -21,4 +21,4 @@
 
 ## Demo
 
-You can try the game by opening the [live demo](https://alphabeticalletters.com/)(#). Let me know your thoughts.
+You can try the game by opening the [live demo](https://alphabeticalletters.com/) Let me know your thoughts.
